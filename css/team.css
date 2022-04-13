@@ -1,0 +1,88 @@
+#team-section {
+ background-color: #71871938;
+}
+
+#team-player-grid {
+    background-color: #71871938;
+}
+
+.navbar-container {
+    background-color: #22577ec7;
+    opacity: 100;
+}
+
+#team-name {
+    font-size: 50px;
+/* font-weight: bold; */}
+
+#championship-won {
+    font-weight: bold;
+}
+
+#team-num-players {
+    font-weight: bold;
+}
+
+#top-batsman-name {
+    font-weight: bold;
+}
+
+#top-bowler-name {
+    font-weight: bold;
+}
+
+#team-grid {
+    background-color: #95d1cc59;
+    margin-bottom: 30px;
+    padding-bottom: 12px;}
+
+.card-team-name{
+    text-align:center
+}
+
+.player-details {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+
+  #player-price,
+  #player-description,
+  #player-is-playing{
+      font-weight: bold;
+  }
+
+  .player-details-box {
+      background-color: #e4dde8;
+      margin: 2px;/* border-color: black; */
+  }
+
+  #player-details-container
+  {
+    background-color: #74906559;
+    margin-bottom: 30px;
+    padding-bottom: 12px;
+  }
+
+.navbar-header {
+    float: left;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.btn{
+    color: white;
+    width: 50%;
+    height: 5%;
+}
+
+.form-inline{
+    margin-left: 50%;
+}
